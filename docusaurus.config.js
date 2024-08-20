@@ -39,7 +39,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/teabagging/Create-React-App/edit/main/docs',
+            'https://github.com/teabagging/Create-React-App/edit/main',
         },
         blog: {
           showReadingTime: true,
@@ -50,7 +50,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/teabagging/Create-React-App/edit/main/docs',
+            'https://github.com/teabagging/Create-React-App/edit/main',
         },
         theme: {
           customCss: './src/css/custom.css',
