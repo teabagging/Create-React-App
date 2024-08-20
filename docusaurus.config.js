@@ -39,7 +39,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/teabagging/create-reacts/edit/main/docs',
+            'https://github.com/teabagging/Create-React-App/edit/main/docs',
         },
         blog: {
           showReadingTime: true,
@@ -50,7 +50,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/teabagging/create-reacts/edit/main/docs',
+            'https://github.com/teabagging/Create-React-App/edit/main/docs',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -91,7 +91,7 @@ const config = {
           {to: '/docs/verce/verceldocs/intro', label: 'vercel', position: 'right'},
           { href: 'https://www.543x.com', label: 'Help', position: 'right' },
           {
-            href: 'https://github.com/teabagging/create-reacts',
+            href: 'https://github.com/teabagging/Create-React-App',
             label: 'GitHub',
             position: 'right',
           },
@@ -131,7 +131,7 @@ const config = {
               },
               {
                 label: 'GitHub Discussions',
-                href: 'https://github.com/teabagging/create-reacts',
+                href: 'https://github.com/teabagging/Create-React-App',
               },
               {
                 label: 'Pump',
@@ -148,7 +148,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/teabagging/create-reacts',
+                href: 'https://github.com/teabagging/Create-React-App',
               },
               {
                 label: 'Conduct',
