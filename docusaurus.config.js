@@ -86,8 +86,8 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/docs/Firebase/Carthage', label: 'next.js', position: 'right'},
-          {to: '/docs/supabase/ai/ai-concepts', label: 'docusaurus', position: 'right'},
+          {to: '/docs/next.js/getting-started/installation', label: 'next.js', position: 'right'},
+          {to: '/docs/ChatGPT-Next-Web/cloudflare-pages-cn', label: 'ChatGPT', position: 'right'},
           {to: '/docs/verce/verceldocs/intro', label: 'vercel', position: 'right'},
           { href: 'https://www.543x.com', label: 'Help', position: 'right' },
           {

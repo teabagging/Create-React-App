@@ -29,34 +29,34 @@ const features = [
 ];
 const components = [
   {
-    title: 'supabase📚',
-    content: "🔥The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-    url: 'https://supabase.com/',
+    title: 'Create AI📚',
+    content: "🔥Bringing AI to the world.",
+    url: 'https://ai.543x.com/',
   },
   {
-    title: 'appwrite📝',
-    content: '🔥Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community ',
-    url: 'https://appwrite.io/',
+    title: 'Swap📝',
+    content: '🔥THE MONETARY FUTURE:AT THE INTERSECTION OF FREE BANKING, CRYPTOGRAPHY, AND DIGITAL CURRENCY ',
+    url: 'https://s.543x.com/',
   },
   {
-    title: 'What is RxDB🐱',
-    content: '🔥A fast, local-first, reactive Database for JavaScript Applications',
-    url: 'https://rxdb.info/',
+    title: 'What is Bitcoin🐱',
+    content: '🔥Bitcoin: A Peer-to-Peer Electronic Cash System',
+    url: 'https://www.543x.com/',
   },
   {
-    title: 'React Native Firebase🧠',
-    content: '🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services..',
-    url: 'https://rnfirebase.io/',
+    title: 'Create React App🧠',
+    content: '🔥Set up a modern web app by running one command.',
+    url: 'https://e.543x.com/',
   },
   {
-    title: 'angularfire 💻',
-    content: '🔥AngularFire smooths over the rough edges an Angular developer might encounter.',
-    url: 'https://firebaseopensource.com/',
+    title: 'Create React App 💻',
+    content: '🔥The library for web and native user interfaces.',
+    url: 'https://r.543x.com/',
   },
   {
-    title: 'flutterfire🚀',
-    content: '🔥 A collection of Firebase plugins for Flutter apps.',
-    url: 'https://firebase.google.com/docs/flutter/setup?platform=ios',
+    title: 'Create Solana🚀',
+    content: '🔥Bringing Blockchain to the World.',
+    url: 'https://b.543x.com/',
   },
 ];
 function Home() {

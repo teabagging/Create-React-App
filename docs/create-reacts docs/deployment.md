@@ -339,7 +339,7 @@ npm run deploy
 
 Finally, make sure **GitHub Pages** option in your GitHub project settings is set to use the `gh-pages` branch:
 
-<img src="https://i.imgur.com/HUjEr9l.png" width="500" alt="gh-pages branch setting" />
+
 
 ### Step 5: Optionally, configure the domain
 
